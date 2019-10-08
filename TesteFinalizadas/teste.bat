@@ -1,0 +1,1 @@
+TRAB3-3.exe /sTesteFinalizadas.script >saida.log

@@ -1,0 +1,26 @@
+// Script:    TesteBarra.script
+// Autor:     Iago Ribeiro Farroco
+// Data:      01/06/2019
+// Propósito: Testar as funções de acesso do módulo barra
+
+== Adiciona peça barra sem barra
+=add 1 2
+
+== Criar barra
+=cria 0
+
+== Adiciona peça barra
+=add 1 0
+
+== Tira peça barra sem barra
+=tira 1 0
+
+== Tira peça barra sem barra
+=tira 1 0
+=recuperar
+
+== Quantidade peça barra
+=qtd 1  1  0
+
+== Destroi
+=destroi 0

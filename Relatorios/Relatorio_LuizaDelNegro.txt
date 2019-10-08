@@ -1,0 +1,33 @@
+Data:31/05/2019
+Horas Trabalhadas: 2
+Tipo de tarefa: Planejamento
+Descrição da atividade: Estudo do trabalho feito anteriormente, organização das atividades a serem feitas. Planejamento da minha parte.
+
+Data:06/06
+Horas Trabalhadas:1
+Tipo de tarefa:planejamento
+Descrição da atividade:
+
+
+Data:15/06
+Horas Trabalhadas:1
+Tipo de tarefa:programação e documentação
+Descrição da atividade: Daniel avisou que não ia conseguir fazer nada na quinta feira da semana. Atividades foram divididas entre os integrantes do grupo. Inicio da ocnstrução do modulo save e correção da documentação anterior
+
+
+Data:20/06
+Horas Trabalhadas:6
+Tipo de tarefa:programação
+Descrição da atividade: construção das funções de salvar e recuperar o jogo
+
+
+Data:21/06
+Horas Trabalhadas:4
+Tipo de tarefa:Documentação e programação
+Descrição da atividade: finalização das funções em que fiquei responsável e documentação
+
+
+Data:23/06
+Horas Trabalhadas:6
+Tipo de tarefa:documentação e testes
+Descrição da atividade: Daniel não completou o que foi concordado entre as partes. Para o grupo não ser prejudicado estou fazendo o teste de aplicação

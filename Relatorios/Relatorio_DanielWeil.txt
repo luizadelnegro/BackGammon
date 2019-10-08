@@ -1,0 +1,41 @@
+**********************************************
+*      PROGRAMAÇÃO MODULAR - RELATÓRIO       *
+**********************************************
+
+*****************************************
+*         Aluno: Daniel Weil            *
+*         Turma: 3WB                    *
+*         Professor: Flavio             *
+*****************************************
+
+  Data     | Horas Trabalhadas  |               Tipo Tarefa                                             |    Descrição da Tarefa Realizada
+ 
+07/05/2019 |    6h              |               Codificar                                               |
+Começo da ánalise e implementação de como printar o tabuleiro de forma dinamica.
+
+10/05/2019 |    6h              |               Codificar                                               |
+Implementação do menu inicial.
+
+12/05/2019 |    6h              |               Codificar                                               |
+Finalização da tela de tabuleiro com as configurações iniciais.
+
+14/05/2019 |    6h              |                 Codificar                                               |
+Manipulação de quem começa o jogo, e a utilização da primeira rodada de dados, fazendo alteraçoes no modulo tambem.
+
+15/05/2019 |    6h              |                 Codificar                                               |
+Implementação do módulo de Dados Pontos, fazendo alteracoes no modulo para que funcionasse com o resto do jogo de acordo. 
+
+16/05/2019 |    7h              |                 Codificar                                               |
+Fazendo o desenvolvimento de quem é o jogador Vez de jogar, implementando o módulo de tabuleiro(movimento);
+
+17/05/2019 |    6h              |                 Codificar                                               |
+Implementacao do modulo de Barra, usando pecas capturadas. Modificacao do tabuleiro para que mostrasse.
+
+18/05/2019 |    6h              |                 Codificar                                               |
+Adaptando o jogo para que rodasse de forma coerente.  Fiz a logica de conclusao do jogo baseado na quantidade de pecas capturadas.
+
+19/05/2019 |    6h              |                Codigicar                                                |
+Modificações no módulo de Barra para que funcionasse corretamente, e que as pecas fossem capturadas conforme o planejado.
+
+23/05/2019 |    7h              |                 Codificar                                               |
+Fazendo modificações para que pecas Finalizadas funcionasse corretamente. Fiz alteracoes nas funcoes de salvar e recuperar o jogo para que funcionassem.

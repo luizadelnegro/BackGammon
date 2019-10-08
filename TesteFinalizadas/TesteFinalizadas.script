@@ -1,0 +1,19 @@
+// Script:    TesteFinalizadas.script
+// Autor:     Iago Ribeiro Farroco
+// Data:      01/06/2019
+// Propósito: Testar as funções de acesso do módulo finalizadas
+
+== Adiciona peça finalizadas sem finalizadas
+=add 1 2
+
+== Criar finalizadas
+=cria 0
+
+== Adiciona peça finalizadas
+=add 1 0
+
+== Quantidade peça finalizadas
+=qtd 1  1  0
+
+== Destroi
+=destroi 0

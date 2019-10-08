@@ -1,0 +1,66 @@
+————— Autores ————— 	
+
+ - Iago Farroco
+ - Luiza Del Negro
+ - Daniel Weil
+
+—————  Descrição do Programa ————— 	
+
+Jogo de gamão modularizado.
+
+—————  Arquivos Fonte  ————— 
+
+- Módulos Header:	
+BARRA.H
+DADOPONTOS.H
+DADO.H				
+PECA.H
+PECAS_FINALIZADAS.H
+LISTA.H
+TABULEIRO.H
+
+- Módulos Source:
+BARRA.C
+DADOPONTOS.C
+DADO.C
+JOGO.C
+PECA.C
+PECAS_FINALIZADAS.C
+LISTA.C
+TABULEIRO.C
+
+-Script de teste manual:
+script_manual.pdf
+
+- Arquivos Executáveis:
+TRAB3-1.exe (Aplicação do Gamão)
+TRAB3-2.exe (Teste Barra)
+TRAB3-3.exe (Teste Finalizadas)	
+
+
+- Arquivos de Relatório:	
+Relatorios/RELATORIO-LuizaDelNegro.txt
+Relatorios/RELATORIO-IagoFarroco.txt
+Relatorios/RELATORIO-DanielWeil.txt
+
+
+- Arquivo Leiame:		LEIAME.TXT
+
+
+- Arquivo de documentação:  
+INF1301_T3_Documentação.pdf
+
+- Arquivo de Manual		
+Manual do Usuário.pdf
+
+
+————— Modo de uso ————— 
+
+1. Extraia o conteúdo do arquivo.
+
+Para executar o jogo:
+- Na pasta Aplicacao do Gamao execute TRAB3-3.exe
+
+Para utilizar o script de teste:
+- Entre nas pastas que contem os scripts de teste (Barra ou Finalizadas) e dê dois cliques no arquivo “teste.bat”. Após isso, abra o saída.log para informações sobre o teste.
+

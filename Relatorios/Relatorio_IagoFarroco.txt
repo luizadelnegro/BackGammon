@@ -1,0 +1,9 @@
+Iago Ribeiro Farroco   -   1712827
+
+Data, 		Horas Trabalhadas, 		Tipo Tarefa, 				Descrição da Tarefa Realizada
+14/06		3 horas 				especificar os modulos		Discutir quem implementacao e definir quem fará oq
+17/06		1 hora 					codificar modulo    		Comecando a implementacao de modulos novos
+20/06		7 horas 				codificar modulo			Auxiliando o desenvolvimento do modulo Jogo
+21/05 		8 horas 				codificar modulo 			Adicionar funções de acesso
+22/05		13 horas 				codificar modulo 			Terminar funções dos módulos e corrigir erros
+23/05		10 horas 				realizar os testes 			Testar os módulos e criar/testar scripts	
